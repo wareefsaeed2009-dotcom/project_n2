@@ -1,4 +1,3 @@
-import os
 
 MAX_ABSENCES = 5
 
