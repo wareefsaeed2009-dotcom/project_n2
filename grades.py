@@ -1,5 +1,3 @@
-import random
-
 
 PASS_MARK = 50
 
